@@ -1,3 +1,3 @@
 # blockshell
 Blockshell files
-Serving to present URLs to Wix site.
+serving to present URLs to Wix site.
